@@ -1,4 +1,3 @@
-
 let process = true;
 let n = prompt ('Cheslo n');
 while (process) {
